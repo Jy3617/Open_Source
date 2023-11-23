@@ -5,8 +5,8 @@ def sub(a,b):
     return a-b
 
 #rwsr
-def mul(a,b):
-    return a*b
+def multi(a,b):
+    retrn a*b
 
-def div(a,b):
+def div_premium(a,b):
     return a/b
