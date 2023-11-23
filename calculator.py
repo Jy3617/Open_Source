@@ -11,7 +11,6 @@ def multi(a,b):
 def div_premium(a,b):
     return a/b
 
-#Power
-def power(a):
-    return a*a
+def mix(a,b,c):
+    return a+b-c
 
