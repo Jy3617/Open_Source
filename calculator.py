@@ -14,3 +14,4 @@ def div_premium(a,b):
 #Power
 def power(a):
     return a*a
+
